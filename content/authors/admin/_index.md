@@ -25,19 +25,18 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Rehabilitation Research Institute of Singapore
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Neuroscience
+      institution: McGill University
+      year: 2016
+    - course: M.Sc Biomedical Engineering
+      institution: Nanyang Technological University
       year: 2008
+    - course: BSc in Electronic Engineering
+      institution: Nanyang Technological University
+      year: 2004
 superuser: true
 last_name: Bighetti
 highlight_name: true
