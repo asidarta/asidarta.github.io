@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: About me
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+title: Short Biography
+active: true
 author: admin
 ---
+I was born in Indonesia and completed my engineering degree in Singapore. I worked in the industry as an electronic engineer where I successfully completed several turn-key manufacturing projects both locally and overseas. Subsequently, I moved to Montreal (Canada) in 2012 for my doctoral degree at McGill University. Upon graduating, I take up a position as a Research Fellow back in Singapore.
