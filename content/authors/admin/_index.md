@@ -17,10 +17,10 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.ca/citations?user=MopxE-EAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/asidarta
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -30,13 +30,13 @@ education:
   courses:
     - course: PhD in Neuroscience
       institution: McGill University
-      year: 2016
+      year: ""
     - course: M.Sc Biomedical Engineering
       institution: Nanyang Technological University
-      year: 2008
+      year: ""
     - course: BSc in Electronic Engineering
       institution: Nanyang Technological University
-      year: 2004
+      year: ""
 superuser: true
 last_name: Bighetti
 highlight_name: true
