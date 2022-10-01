@@ -1,7 +1,7 @@
 ---
 title: Ananda Sidarta, PhD
 role: Research Fellow
-avatar_filename: profile_bw.png
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
